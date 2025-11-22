@@ -10,6 +10,8 @@ N.Sugandan 212222060260
 	Tilt sensor(SW200D)
 
 ## Circuit Diagram:
+<img width="677" height="333" alt="image" src="https://github.com/user-attachments/assets/c9dc9424-7dc0-40e0-bb31-78e9b4c316b5" />
+
  
 ## Theory :
  The Arduino Uno is powered by the ATmega328P, an 8-bit microcontroller that runs at 16 MHz. It has 32 KB of flash memory, 2 KB of SRAM, and 1 KB of EEPROM. The board has 14 digital I/O pins (of which 6 can be used as PWM outputs) and 6 analog input pins. These pins allow the board to interface with various sensors, actuators, and other devices.The Arduino Uno can be powered via a USB connection or an external power supply. The board has a built-in voltage regulator to manage power from 7 to 12 volts.
