@@ -5,9 +5,9 @@ N.Sugandan 212222060260
 
 ## Hardware / Software Tools required:
 	PC/ Laptop with Internet connection
-  Tinker CAD tool (Online)
-	Arduino UNO Board/ESP-32
-	Tilt sensor(SW200D)
+Tinker CAD tool (Online)
+Arduino UNO Board/ESP-32
+Tilt sensor(SW200D)
 
 ## Circuit Diagram:
 <img width="677" height="333" alt="image" src="https://github.com/user-attachments/assets/c9dc9424-7dc0-40e0-bb31-78e9b4c316b5" />
