@@ -48,16 +48,21 @@ Step 7: Save Your Work
 
 ## Code:
 int ledPin=13;
+
 int inPin=7;
+
 void setup()
 {
  Serial.begin(9600);
+ 
   pinMode(ledPin,OUTPUT);
+  
   pinMode(inPin,INPUT);
 }
 void loop()
 {
   int val=digitalRead(inPin);
+  
   if(val==0)
   {
     digitalWrite(ledPin,HIGH);
